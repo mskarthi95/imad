@@ -1,0 +1,7 @@
+Imad - introduction to modern application
+
+By Hasura and Nptel with several intern sponsors
+
+http://www.imad.tech/
+
+https://github.com/hasura-imad
